@@ -1,5 +1,5 @@
 # Mini Bank Account Simulator
-This is a simple Python project that simulates a basic bank account system. The program allows users to:
+This is a simple (beginner-friendly) Python project that simulates a basic bank account system. The program allows users to:
 - Check account balance
 - Deposit money
 - Withdraw money
