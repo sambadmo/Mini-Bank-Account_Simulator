@@ -7,4 +7,4 @@ This is a simple (beginner-friendly) Python project that simulates a basic bank 
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   [git clone https://github.com/your-username/your-repository-name.git](https://github.com/sambadmo/Mini-Bank-Account_Simulator.git)
