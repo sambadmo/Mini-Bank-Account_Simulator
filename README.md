@@ -4,7 +4,5 @@ This is a simple (beginner-friendly) Python project that simulates a basic bank 
 - Deposit money
 - Withdraw money
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   [git clone https://github.com/your-username/your-repository-name.git](https://github.com/sambadmo/Mini-Bank-Account_Simulator.git)
+## How to Use
+1. Run the script in a Python environment (e.g., PyCharm, terminal, VS Code)
